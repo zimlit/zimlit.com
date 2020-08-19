@@ -1,0 +1,67 @@
+ul {
+    list-style: none; 
+    text-align: center;
+    background-color: lightgray;
+    padding: 1em;
+    margin: -0.5em;
+}
+li {
+    display: inline-block;
+    background-color: gray;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-right: 1em;
+    padding-left: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+body {
+    background-color: darkgray;
+}
+
+a:link {
+    text-decoration: none;
+    background-color: gray;
+}
+  
+a:visited {
+    text-decoration: none;
+
+}
+
+a:hover {
+    text-decoration: underline;
+
+}
+
+a:active {
+    text-decoration: underline;
+
+}
+
+.github {
+    text-align: center;
+    margin: 2em;
+}
+
+.github-button {
+    padding: 0.5em;
+
+    background-color: #555555;
+}
+
+.label {
+    text-align: center;
+    text-decoration: underline;
+    color: #557755;
+}
+
+.welcome {
+    text-align: center;
+}
+
+.projects {
+    background-color: #555555;
+    margin: 1em;
+}
