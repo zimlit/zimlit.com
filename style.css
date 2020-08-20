@@ -45,6 +45,7 @@ a:active {
     text-align: center;
     text-decoration: underline;
     color: #557755;
+    margin-bottom: 2em;
 }
 
 .welcome {
@@ -55,6 +56,8 @@ a:active {
     background-color: #555555;
     margin: 1em;
     text-align: center;
+    padding: 0.5em;
+    padding-bottom: 3em;
 }
 
 .cat-button {
@@ -63,4 +66,5 @@ a:active {
     padding-bottom: 1em;
     padding-left: 7em;
     padding-right: 7em;
+    margin-bottom: 2em;
 }
