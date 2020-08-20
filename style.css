@@ -64,4 +64,13 @@ a:active {
 .projects {
     background-color: #555555;
     margin: 1em;
+    text-align: center;
+}
+
+.project-button {
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 7em;
+    padding-right: 7em;
 }
