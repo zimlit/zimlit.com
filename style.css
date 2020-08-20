@@ -68,3 +68,15 @@ a:active {
     padding-right: 7em;
     margin-bottom: 2em;
 }
+
+.sidebar {
+    background-color: #444444;
+    width: 130px;
+    position: absolute;
+    z-index: 1;
+    top: 3.5em;
+    right: 0;
+    overflow-x: hidden;
+    padding: 8px 0;
+    margin-right: 1em;
+}
