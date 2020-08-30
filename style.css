@@ -3,7 +3,8 @@ ul {
     text-align: center;
     background-color: lightgray;
     padding: 1em;
-    margin: -0.5em;
+    margin: 1em;
+    border-radius: 25px;
 }
 li {
     display: inline-block;
@@ -58,6 +59,7 @@ a:active {
     text-align: center;
     padding: 0.5em;
     padding-bottom: 3em;
+    border-radius: 25px;
 }
 
 .cat-button {
