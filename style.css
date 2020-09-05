@@ -13,8 +13,11 @@ li {
     padding-bottom: 0.5em;
     padding-right: 1em;
     padding-left: 1em;
-    margin-left: 1em;
-    margin-right: 1em;
+    border-radius: 5px;
+}
+
+.cat-list {
+        background-color: #555555;
 }
 
 body {
@@ -24,6 +27,7 @@ body {
 a:link {
     text-decoration: none;
     background-color: gray;
+    border-radius: 10px;
 }
   
 a:visited {
